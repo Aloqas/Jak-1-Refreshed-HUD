@@ -1,0 +1,9 @@
+{
+  "name": "Jak 1 - Refreshed HUD",
+  "version": "1.0.0",
+  "author": "Alokas",
+  "releaseDate": "2025-02-04",
+  "supportedGames": ["jak2"],
+  "description": "Jak 1 HUD textures recreated in HD.",
+  "tags": ["jak1","hud","hd","texture"]
+}
