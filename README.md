@@ -5,7 +5,7 @@ Handmade HD HUD texture pack for the OpenGOAL PC port of Jak 1.
 1. Download latest release
 2. Open the OpenGOAL Launcher
 3. Go to Jak & Daxter: The Precursor Legacy -> Features -> Texture Packs
-4. Click 'Add New Pack' and select the downloaded ZIP
+4. Click 'Add New Pack' and select the downloaded ZIP file
 5. Click 'Apply Texture Changes'
 6. Wait for it to finish decompiling
 7. Enjoy!
